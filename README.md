@@ -4,7 +4,7 @@
 <p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20developer;&font=Fira%20Code&width=500&height=45&color=6600ff&vCenter=true&pause=1000&size=24" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20developer;&font=Fira%20Code&width=500&height=45&color=7ABF0B&vCenter=true&pause=1000&size=24" /></a>
 </p>
 
 **`About me`** 
